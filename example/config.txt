@@ -1,0 +1,2 @@
+Prefix plugins/CNN_MAE/example/
+Plugin CNN_MAE inputfile Merged-update_hourly.csv outputfile .
